@@ -1,2 +1,2 @@
 # medicot-app
-Created the mendicode-app Trump Logic
+Created the mendicode-app  Close Trump Logic
